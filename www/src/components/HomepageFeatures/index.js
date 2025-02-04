@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Sahakari App',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        SB Pigmy Passbook and Utility bill payment for 
+      Co-operatives(Sahakari).
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Smart Pigmy App',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Pigmy Plus Agent app is designed for finance agents. 
+      This app helps them to replace the machines used in pigmy collections
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Birse',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Customer service software that helps businesses automate 
+      their customer service operations.
       </>
     ),
   },
