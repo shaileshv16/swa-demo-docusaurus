@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My SWA-ntastic Site!',
+  title: 'ACS Documentation',
   tagline: 'Learn more on #30DaysOfSWA',
   url: 'https://zealous-bay-0062c640f.1.azurestaticapps.net/',
   baseUrl: '/',
