@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'SWA-Me!',
+        title: 'DOCS',
         logo: {
           alt: '#30DaysOfSWA Logo',
           src: 'img/logo.svg',
@@ -68,7 +68,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Sahakari',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
