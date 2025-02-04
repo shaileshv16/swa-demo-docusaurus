@@ -21,7 +21,7 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Tutorial',
+      label: 'Sahakari',
       items: ['hello'],
     },
   ],
