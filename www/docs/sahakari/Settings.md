@@ -1,1 +1,0 @@
-![Screen Shot 2024-06-21 at 17.45.14.png](/.attachments/Screen%20Shot%202024-06-21%20at%2017.45.14-dedba027-97fb-4287-a47b-1e0b4d16775f.png)

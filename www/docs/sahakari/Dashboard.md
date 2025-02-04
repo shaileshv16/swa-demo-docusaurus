@@ -9,4 +9,3 @@ The Sahakari Mobile App Dashboard provides a comprehensive overview of your fina
 **Notifications and Alerts**: Receive important messages and updates from Sahakari, including policy changes, new features, and promotional offers.
 `
 
-![Screen Shot 2024-06-21 at 17.45.42.png](/.attachments/Screen%20Shot%202024-06-21%20at%2017.45.42-a1121f65-5cee-4899-99a7-fc80ab8cc7e2.png)

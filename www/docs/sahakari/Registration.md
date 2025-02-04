@@ -37,4 +37,4 @@ Registering for the Sahakari Mobile App is a straightforward process designed to
 **Keep Your Phone Secure:** Ensure that your mobile device is secured with a PIN, password, or biometric lock to prevent unauthorized access to the Sahakari Mobile App.
 
 **Do Not Share OTP**: OTPs are time-sensitive and should not be shared with anyone.
-![Screenshot_20240730-160040.png](/.attachments/Screenshot_20240730-160040-874e949a-d700-4494-b21f-113b8907461e.png)
+

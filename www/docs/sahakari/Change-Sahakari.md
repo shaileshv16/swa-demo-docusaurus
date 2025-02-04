@@ -10,4 +10,3 @@ Navigate to the Change Sahakari Section
 
 If you see multiple sahakari account you can switch account.
 
-![Screenshot_20240730-155737.png](/.attachments/Screenshot_20240730-155737-09f9f5ce-f348-4e42-a7de-e060878c4656.png)
